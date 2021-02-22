@@ -8,4 +8,4 @@
 * JWT  
 * Serverless  
 ### 프로젝트 구조
-내용
+![Web App Reference Architecture](https://user-images.githubusercontent.com/51106108/108653268-5ec42380-7509-11eb-9cdb-7a20c52e2b3f.png)
